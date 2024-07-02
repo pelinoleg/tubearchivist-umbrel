@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: tubearchivist
+name: TubeArchivist
+tagline: TubeArchivist
+icon: https://avatars.githubusercontent.com/u/102734415?s=200&v=4
+category: music
+version: "1.0.0"
+port: 7777
+description: >-
+  TubeArchivist is a self-hosted YouTube archiving and management tool.
+
+developer: Pelin Oleg
+website: https://github.com/pelinoleg/tubearchivist-umbrel
+submitter: Pelin Oleg
+submission: https://github.com/pelinoleg/tubearchivist-umbrel
+repo: https://github.com/pelinoleg/tubearchivist-umbrel
+support: https://github.com/pelinoleg/tubearchivist-umbrel/issues
+
+gallery:
+  - https://thehomelab.wiki/uploads/images/gallery/2022-01/tube-archivist-screenshot-home.png
+  - https://blog.unixhost.pro/wp-content/uploads/2022/09/image-46.png
+
+releaseNotes: >-
+  Initial release of TubeArchivist on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
